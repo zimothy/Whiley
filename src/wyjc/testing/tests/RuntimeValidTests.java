@@ -385,6 +385,7 @@ public class RuntimeValidTests extends TestHarness {
  @Test public void Switch_Valid_7_RuntimeTest() { runTest("Switch_Valid_7"); }
  @Test public void Switch_Valid_8_RuntimeTest() { runTest("Switch_Valid_8"); }
  @Test public void Switch_Valid_9_RuntimeTest() { runTest("Switch_Valid_9"); }
+ @Test public void Syntax_Valid_1_RuntimeTest() { runTest("Syntax_Valid_1"); }
  @Test public void TryCatch_Valid_1_RuntimeTest() { runTest("TryCatch_Valid_1"); }
  @Test public void TryCatch_Valid_2_RuntimeTest() { runTest("TryCatch_Valid_2"); }
  @Test public void TryCatch_Valid_3_RuntimeTest() { runTest("TryCatch_Valid_3"); }
@@ -437,6 +438,7 @@ public class RuntimeValidTests extends TestHarness {
  @Test public void TypeEquals_Valid_35_RuntimeTest() { runTest("TypeEquals_Valid_35"); }
  @Test public void TypeEquals_Valid_36_RuntimeTest() { runTest("TypeEquals_Valid_36"); }
  @Test public void TypeEquals_Valid_37_RuntimeTest() { runTest("TypeEquals_Valid_37"); }
+ @Test public void TypeEquals_Valid_38_RuntimeTest() { runTest("TypeEquals_Valid_38"); }
  @Ignore("Known Issue") @Test public void Update_Valid_1_RuntimeTest() { runTest("Update_Valid_1"); }
  @Ignore("Known Issue") @Test public void Update_Valid_2_RuntimeTest() { runTest("Update_Valid_2"); }
  @Test public void UnionType_Valid_1_RuntimeTest() { runTest("UnionType_Valid_1"); }
